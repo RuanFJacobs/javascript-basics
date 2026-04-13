@@ -1,5 +1,7 @@
 let name = "Ruan";
-let year = 2026;
+const year = 2026;
+let isLearning = true;
 
 console.log(name);
 console.log(year);
+console.log(isLearning);
