@@ -24,3 +24,4 @@ console.log(filtered);
 const total = prices.reduce((sum, price) => sum + price, 0);
 
 console.log(total);
+console.log(prices.length)
