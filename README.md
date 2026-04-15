@@ -1,12 +1,16 @@
-# JavaScript Basics 
+# JavaScript Basics
 
-## Topics Covered
-- Variables
-- Conditionals
-- Loops
-- Functions
-- Arrays
-- Objects
+Collection of small exercises covering fundamental JavaScript concepts.
 
-## HTML
-The html is there for me to see how my code reflects in browser console.
+## Topics covered
+
+- variables and data types
+- functions
+- arrays and objects
+- loops
+- conditionals
+- basic DOM manipulation
+
+## Purpose
+
+This repository documents my learning progression while building a strong foundation in JavaScript before moving on to larger full stack projects.
